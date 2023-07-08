@@ -1,0 +1,162 @@
+2023-07-02T12:14:15,630 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2023-07-02T12:14:15,644 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2023-07-02T12:14:15,647 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-02T12:14:15,647 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-02T12:14:15,648 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-02T12:14:15,649 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-02T12:14:15,650 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-02T12:14:15,650 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-02T12:14:15,651 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-02T12:14:15,651 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-02T12:14:15,654 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-02T12:14:15,656 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-02T12:14:15,657 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-02T12:14:15,659 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-02T12:14:15,659 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-02T12:14:15,661 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-02T12:14:15,667 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-02T12:14:15,668 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-02T12:14:15,668 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-02T12:14:15,670 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-02T12:14:15,672 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-02T12:14:15,673 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-02T12:14:15,674 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-02T12:14:15,675 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-02T12:14:15,682 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2023-07-02T12:14:15,699 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2023-07-02T12:14:15,702 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-02T12:14:15,703 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-02T12:14:15,703 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-02T12:14:15,704 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-02T12:14:15,719 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  C:\Users\mohan\AppData\Local\Temp\testng-eclipse--753513340\testng-customsuite.xml
+
+2023-07-02T12:14:15,755 [main] INFO  (Logger.java:112) - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2023-07-02T12:14:15,808 [main] INFO  (log4jGetReq.java:28) - test_1 execution started..,
+2023-07-02T12:14:18,879 [main] INFO  (log4jGetReq.java:41) - test_1 execution ended...
+2023-07-02T12:14:18,894 [main] INFO  (log4jGetReq.java:47) - test_2 execution started..,
+2023-07-02T12:14:19,641 [main] INFO  (RestAssuredListener.java:24) - 
+ Method => GET
+ URI => https://reqres.in/api/users?page=2
+ RequestBody => null
+ RequestBody => {
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2023-07-02T12:14:20,677 [main] INFO  (log4jGetReq.java:55) - test_2 execution ended..,
+2023-07-02T12:14:20,690 [main] INFO  (log4jGetReq.java:59) - test_3 execution started..,
+2023-07-02T12:14:21,666 [main] INFO  (RestAssuredListener.java:24) - 
+ Method => GET
+ URI => https://reqres.in/api/users?page=2
+ RequestBody => null
+ RequestBody => {
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2023-07-02T12:14:21,845 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@4863c8ac: 66 ms
+2023-07-02T12:14:21,930 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.jq.Main@71c0b742: 84 ms
+2023-07-02T12:14:21,963 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.FailedReporter@3be3e76c: 32 ms
+2023-07-02T12:14:21,978 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.XMLReporter@5fb5ad40: 14 ms
+2023-07-02T12:14:21,987 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@49491770: 9 ms
+2023-07-02T12:14:21,999 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@582a3b19: 10 ms
+2023-07-02T12:14:22,000 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2b0454d2: 0 ms
